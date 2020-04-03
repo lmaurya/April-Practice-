@@ -1,4 +1,3 @@
-print("Hello world ")
-I am a coder
+print("Hello w
 Print ("This is my third line ")
 see 
